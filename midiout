@@ -1,3 +1,7 @@
+# https://diyelectromusic.wordpress.com/2021/01/23/midi-micropython-and-the-raspberry-pi-pico/
+#
+#
+
 import machine
 import time
 import ustruct
